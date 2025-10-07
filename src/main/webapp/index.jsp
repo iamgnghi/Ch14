@@ -12,7 +12,7 @@
 <body>
 <div class="container">
     <div class="card">
-        <h1>Gửi Email</h1>
+        <h1>Hello</h1>
         <p>Nhập địa chỉ email</p>
 
         <form action="sendEmail" method="post" class="email-form">
